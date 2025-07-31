@@ -1027,7 +1027,6 @@ body {
    border-radius: 30px;
    overflow: hidden;
    display: flex;
-   flex-wrap: wrap;
    justify-content: space-between;
    align-items: center;
    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
